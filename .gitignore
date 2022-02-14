@@ -1,0 +1,6 @@
+*.py[cod]
+*.py.nouse
+
+# test docs
+moby.txt
+war.txt
